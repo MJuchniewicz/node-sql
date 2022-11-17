@@ -1,0 +1,23 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+
+
+
+table, th, th {
+    border-collapse: collapse;
+    border: 1px solid #000;
+    text-align: center;
+}
+
+th, td {
+    padding: 5px;
+    border: 1px solid #000;
+}
+
+#update-row {
+    margin-top: 16px;
+}
